@@ -1,0 +1,14 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": "Gets the ip address, language, and browser operating system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leah <lefrye@nps.edu>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
